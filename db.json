@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctor's Appointment",
+      "date": "March 15th at 9:00am",
+      "reminder": true
+    },
+    {
+      "id": 49,
+      "text": "Vuejs crash course 60% done",
+      "date": "June 27  at 11:15pm",
+      "reminder": false
+    },
+    {
+      "id": 104,
+      "text": "Vuex [Confusing]",
+      "date": "June 27  at 11:15pm",
+      "reminder": false
+    },
+    {
+      "text": "Vuex [Confusing] test2",
+      "date": "June 27  at 11:15pm",
+      "reminder": false,
+      "id": 434
+    }
+  ]
+}
