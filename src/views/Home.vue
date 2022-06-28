@@ -12,10 +12,10 @@
 </template>
 
 <script>
-import Header from "./components/Header"
-import Tasks from "./components/Tasks.vue"
-import Form from "./components/Form.vue"
-import Footer from "./components/Footer.vue"
+import Header from "../components/Header"
+import Tasks from "../components/Tasks.vue"
+import Form from "../components/Form.vue"
+import Footer from "../components/Footer.vue"
 
 export default {
   name: 'App',
